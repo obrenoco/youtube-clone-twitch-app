@@ -26,9 +26,9 @@
 
 ## :robot: Technologies
 
-- [x] ⚛ ReactNative
-- [x] ⚛ StyledComponents
-- [x] ⚛ Expo
+✅ ReactNative
+✅ StyledComponents
+✅ Expo
 
 
 <br />
